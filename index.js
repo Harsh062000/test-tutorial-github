@@ -11,3 +11,6 @@ function is18() {
 function seeName() {
        return name;
 }
+
+const add = 34;
+const sub = 45;
