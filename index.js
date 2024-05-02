@@ -19,3 +19,8 @@ function newFeature() {
        console.log("new feature added");
        console.log("new feature added again");
 }
+
+function newFeatureB() {
+       console.log("new feature B added");
+       console.log("new feature B added again");
+}
