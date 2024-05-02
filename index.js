@@ -14,3 +14,7 @@ function seeName() {
 
 const add = 34;
 const sub = 45;
+
+function newFeature() {
+       console.log("new feature added");
+}
