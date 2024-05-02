@@ -17,4 +17,5 @@ const sub = 45;
 
 function newFeature() {
        console.log("new feature added");
+       console.log("new feature added again");
 }
